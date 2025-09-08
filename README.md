@@ -61,7 +61,8 @@ Analyze which prompting method yields the best results.
 * **Output**: Beginner-friendly explanation + well-commented code.
   
 ## Output
-The responses of the model varied depending on the prompting pattern. Unstructured prompts gave vague or incomplete answers, while zero-shot prompts provided correct but basic responses. Few-shot prompts improved creativity and context, chain-of-thought prompts gave step-by-step explanations with clarity, and role-based prompts delivered detailed, user-friendly answers.
+[prompt lab 2.pdf](https://github.com/user-attachments/files/22200677/prompt.lab.2.pdf)
+
 
 ## Result
 From the analysis, it is observed that structured prompting patterns such as few-shot, chain-of-thought, and role-based give more accurate, clear, and well-organized results compared to unstructured or basic zero-shot prompts. Hence, prompt engineering plays an important role in improving the quality and depth of model responses
